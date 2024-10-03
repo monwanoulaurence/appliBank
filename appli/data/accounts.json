@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+        "user_id": 1,
+        "account_number": "AC12345678",
+        "balance": 1000.00,
+        "created_at": "2024-04-01T10:00:00Z"
+    }
+]
